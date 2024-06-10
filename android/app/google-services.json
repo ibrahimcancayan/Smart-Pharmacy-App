@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "53737538330",
+    "firebase_url": "https://akilli-ilac-1b423-default-rtdb.firebaseio.com",
+    "project_id": "akilli-ilac-1b423",
+    "storage_bucket": "akilli-ilac-1b423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53737538330:android:0d5a5357e14c2af970e2a3",
+        "android_client_info": {
+          "package_name": "com.eczadolabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYuDXkpK37g1b1bp6ywfgsldJUot_o-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
