@@ -68,42 +68,24 @@ You've successfully run and modified your React Native App. :partying_face:
 
 Uygulamamızın amacı yaşlı ve unutkan insanların ilaçlarını hatırlatmaktır.
 
-Uygulamayı kullananların karşısına ilk çıkacak ekrandır. Burada kullanıcı mail ve şifresini girip sisteme bağlanabilir. Eğer bir hesabı yok ise altta bulunan hesap oluştur seçeneğine tıklayarak hesap oluşturabilir.
 <div>
 
-  <img src="![1](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/7e535990-26d2-492f-a23d-ce8ae583dbd3)
-" alt="" width="180" align="left">
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/e6c1e851-7419-4b81-b1ca-ccfeadb0c305" alt="" width="120" align="left">
 
-  <img src="![2](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/5598e879-7b8b-4643-9812-5d414e9562b1)
-" alt="" width="180" align="left">
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/5598e879-7b8b-4643-9812-5d414e9562b1" alt="" width="120" align="left">
 
-  <img src="![3](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/3602f787-de12-40a9-bff2-dd3759926646)
-" alt=""  align="left" width="180">
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/3602f787-de12-40a9-bff2-dd3759926646" alt="" align="left" width="120">
 
-  <img src="![4](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/7e4931e7-5aad-491e-a641-2ef88bd931cd)
-" alt=""  align="left" width="180">
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/7e4931e7-5aad-491e-a641-2ef88bd931cd" alt="" align="left" width="120">
 
-<img src=""![5](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/9f1712b9-4fda-44e0-a445-9ec140fcee9a)
- alt=""  align="left" width="180">
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/9f1712b9-4fda-44e0-a445-9ec140fcee9a" alt="" align="left" width="120">
 
   <br clear="all">
 
 </div>
 
-Kullanıcı hesap oluşturmak için alta bulunan kutucukları uygun bir biçimde doldurtukan sonra uygulamaya üye olabilir.
-![2](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/697ff176-9ae5-4782-8ddc-4258f9ab2bc4)
+Kullanıcı uygulamaya açtığında giriş ekranı ile karşılaşır. Eğer bir hesabı var ise uygulamaya giriş yapabilir yok ise altta bulunan hesap oluştur tuşuna basarak kendisine hesap oluşturabilir. Kulanaıcı uygulamayı açtığında sadece altta ilaç ekle kısmı ile karşılaşır buradan ilaç ekle tuşuna basarak kendisi ilacın adını, başlangıçını, bitişini, dozajını ve tipini girip sisteme ilacını sokabilir. Altta bulunan profil tuşuna basarak profil kısmına ulaşabilir. Burada iletişim bilgilerini ve toplam kaç ilaca sahip olduğunu görebilir.
 
-
-Kullanıcı uygulamada acil durumlarda sağ üste bulunan acil tuşuna basarak acil servisi arayabilir. Altta bulunan ilaç ekle tuşuna basarak ilacını ekleyebilir.
-![3](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/f4add646-f9f0-4398-960f-f40c8b6def82)
-
-
-İlaç ekleme sisteminde kullanıcı ilacın adını, başlangıcını, bitiş tarihini, dozajını ve tipini girerek girdiği ilacı sisteme kayıt edebilir.
-![4](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/051b8aea-cedd-446d-8112-897f5c261227)
-
-
-Kullanıcı altta bulunan profil kısmına tıklayarak kendi profil ekranına ulaşabilir burada iletişim bilgilerini ve kaç tane ilaç kullandığını görebilir.
-![5](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/6b6bde7a-7e78-4bd8-9b35-e03b5efaca52)
 
 
 
