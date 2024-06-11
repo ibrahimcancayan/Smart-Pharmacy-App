@@ -69,7 +69,7 @@ You've successfully run and modified your React Native App. :partying_face:
 Uygulamamızın amacı yaşlı ve unutkan insanların ilaçlarını hatırlatmaktır.
 
 Uygulamayı kullananların karşısına ilk çıkacak ekrandır. Burada kullanıcı mail ve şifresini girip sisteme bağlanabilir. Eğer bir hesabı yok ise altta bulunan hesap oluştur seçeneğine tıklayarak hesap oluşturabilir.
-![1](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/5148a421-cf2d-4114-8b53-586bec7098df)
+<img src="![1](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/5148a421-cf2d-4114-8b53-586bec7098df)" alt=""  align="left" width="180">
 
 Kullanıcı hesap oluşturmak için alta bulunan kutucukları uygun bir biçimde doldurtukan sonra uygulamaya üye olabilir.
 ![2](https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/697ff176-9ae5-4782-8ddc-4258f9ab2bc4)
